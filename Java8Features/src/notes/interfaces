@@ -1,0 +1,7 @@
+http://www.tothenew.com/blog/generic-functional-interfaces-and-functional-interface-api-for-lambda-expressions-java-8/
+
+BiFunction is another interface similar to BiConsumer with the only difference that it returns.
+
+Consumer, as is apparent, takes only one parameter and performs some operations without returning anything.
+
+Function is similar to Consumer but returns a value of some generic type.

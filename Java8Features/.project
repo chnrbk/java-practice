@@ -3,6 +3,7 @@
 	<name>Java8Features</name>
 	<comment></comment>
 	<projects>
+		<project>java8-tutorial</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

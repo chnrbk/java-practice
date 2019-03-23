@@ -25,7 +25,6 @@ public class Streams2 {
 
         // sorting
         
-        stringCollection1.forEach(System.out::println);
         stringCollection1
                 .stream()
                 .sorted()
